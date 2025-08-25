@@ -67,3 +67,9 @@ anything is any.
 anything is Any inf it has class.
 
 anything is ANY inf it include all of any.
+
+ANY is Any.
+
+ANY is any.
+
+Any is any.
