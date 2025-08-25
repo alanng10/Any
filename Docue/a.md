@@ -53,3 +53,11 @@ Any has park mark.
 Any has park cross.
 
 Any has major.
+
+Any can be anything.
+
+any word is all lower case.
+
+Any word is first letter upper case, and other letter lower case.
+
+ANY word is all upper case.
