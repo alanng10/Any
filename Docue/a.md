@@ -61,3 +61,9 @@ any word is all lower case.
 Any word is first letter upper case, and other letter lower case.
 
 ANY word is all upper case.
+
+anything is any.
+
+anything is Any inf it has class.
+
+anything is ANY inf it include all of any.
