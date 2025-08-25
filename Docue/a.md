@@ -68,14 +68,14 @@ anything is Any inf it has class.
 
 anything is ANY inf it include all of any.
 
-ANY is ANY. 
+ANY is ANY.
 
-ANY is Any. 
+ANY is Any.
 
-ANY is any. 
+ANY is any.
 
-Any is Any. 
+Any is Any.
 
-Any is any. 
+Any is any.
 
-any is any. 
+any is any.
