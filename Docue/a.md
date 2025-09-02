@@ -79,3 +79,9 @@ Any is Any.
 Any is any.
 
 any is any.
+
+Any word has spell.
+The spell is:
+"A" for Animi Class.
+"n" for never kind.
+"y" for yes all.
